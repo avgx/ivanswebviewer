@@ -1,0 +1,14 @@
+{
+  "version":"1",
+  "redirectToRoot":[
+    "https://pogoda.yandex.ru/moscow",
+    "https://www.google.com"
+  ],
+  "openInBrowser":[
+    "https://pogoda.yandex.ru/rostov-na-donu"
+  ],
+  "openInPlayMarket":[
+    "market://details?id=ru.avgxsoft.galleryorganizer",
+    "https://play.google.com/store/apps/details?id=ru.avgxsoft.reshare500px"
+  ]
+}
