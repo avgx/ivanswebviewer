@@ -1,6 +1,7 @@
 {
   "version":"1",
-  "currentVersion":"1.0.0.1",
-  "minimumVersion":"1.0.0.0",
-  "currentVersionApk":"http://avgx.github.io/ivanswebviewer/app-123.apk"
+  "currentVersion":"1.0.1",
+  "minimumVersion":"1.0.0",
+  "currentVersionApk":"http://avgx.github.io/ivanswebviewer/ivans-webviewer-myDebug-1.0.0.apk",
+  "currentVersionApkMd5":"dcb0c0a873cb3f1f60f67cccf02e6994"
 }
